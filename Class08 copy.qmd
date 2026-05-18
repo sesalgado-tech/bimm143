@@ -1,0 +1,7 @@
+---
+title: "Class08"
+author: "Sofia Salgado"
+format: pdf
+editor: visual
+---
+
